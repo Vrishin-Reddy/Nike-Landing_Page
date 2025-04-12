@@ -33,7 +33,7 @@ Nike/
 ### Setup
 
 ```bash
-git clone https://github.com/your-username/nike-landing-page.git
+git clone https://github.com/Vrishin-Reddy/nike-landing-page.git
 cd nike-landing-page
 npm install
 npm run dev
@@ -68,15 +68,10 @@ Tailwind is extended with:
 - 🧼 Linting via ESLint
 - 📱 Fully responsive design
 
-## 📸 Screenshots
 
-> _Insert screenshots of the landing page here_
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
 **Made with ❤️ for creative UI development**
-# Nike-Landing_Page
+
